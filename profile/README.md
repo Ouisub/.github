@@ -1,4 +1,6 @@
-## Hi there 👋
+## Bienvenue sur le Répertoire de Supersub AI
+
+🤫 Mais pour l'instant on n'en dit pas plus...
 
 <!--
 
