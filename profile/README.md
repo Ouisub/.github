@@ -1,14 +1,28 @@
-## Bienvenue sur le Répertoire de Supersub AI
+# Ouisub
 
-🤫 Mais pour l'instant on n'en dit pas plus...
+<p align="center">
+  <a href="https://ouisub.fr">
+    <img src="https://ouisub.fr/logo.png" alt="Ouisub Logo" width="200"/>
+  </a>
+</p>
 
-<!--
+## 🚀 À propos
 
-**Here are some ideas to get you started:**
+Ouisub est une plateforme SaaS qui révolutionne la recherche et la gestion des subventions pour les associations. Notre solution utilise l'intelligence artificielle pour simplifier le processus de recherche et de demande de subventions.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🌟 Fonctionnalités Principales
+
+- **Veille Automatisée**: Système de sourcing intelligent des subventions
+- **IA Génératrice**: Assistance à la rédaction des dossiers
+- **Notifications**: Alertes email personnalisées hebdomadaires
+
+## 🔗 Liens Utiles
+
+- **Site Web**: [ouisub.fr](https://ouisub.fr)
+- **LinkedIn**: [Ouisub](https://www.linkedin.com/company/ouisub)
+
+---
+
+<p align="center">
+  Développé avec ❤️ par l'équipe Ouisub
+</p>
