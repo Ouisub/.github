@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://ouisub.fr">
-    <img src="[https://ouisub.fr/wp-content/uploads/2024/12/Logo-Ouisub.png](https://github.com/user-attachments/assets/b55ca6d6-d251-41d1-96c7-ba062eea5617)" alt="Ouisub Logo" width="200" style="background-color: white; padding: 10px; border-radius: 8px;"/>
+    <img src="https://github.com/user-attachments/assets/b55ca6d6-d251-41d1-96c7-ba062eea5617" alt="Ouisub Logo" style="background-color: white; padding: 10px; border-radius: 8px;"/>
   </a>
 </p>
 
