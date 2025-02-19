@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://ouisub.fr">
-    <img src="https://ouisub.fr/logo.png" alt="Ouisub Logo" width="200"/>
+    <img src="https://ouisub.fr/wp-content/uploads/2024/12/Logo-Ouisub.png" alt="Ouisub Logo" width="200"/>
   </a>
 </p>
 
