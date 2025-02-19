@@ -1,8 +1,6 @@
-# Ouisub
-
 <p align="center">
   <a href="https://ouisub.fr">
-    <img src="https://ouisub.fr/wp-content/uploads/2024/12/Logo-Ouisub.png" alt="Ouisub Logo" width="200"/>
+    <img src="https://ouisub.fr/wp-content/uploads/2024/12/Logo-Ouisub.png" alt="Ouisub Logo" width="200" style="background-color: white; padding: 10px; border-radius: 8px;"/>
   </a>
 </p>
 
